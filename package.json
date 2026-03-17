@@ -1,0 +1,11 @@
+{
+  "name": "mi-curriculum",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "servor src --reload --browse"
+  },
+  "devDependencies": {
+    "servor": "^4.0.2"
+  }
+}
